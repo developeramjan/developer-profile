@@ -23,7 +23,8 @@ h1 span{
     color: orange;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
+    border-radius: 25px;
 }
 .anchor-button{
     text-decoration: none;
